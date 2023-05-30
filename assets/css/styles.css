@@ -562,11 +562,15 @@ iframe {
   }
 }
 
-
-
-
 .block
 {
   background-color: #E4DCCF;
   padding:10px;
+}
+
+.my-font
+{
+  font-family: 'SUITE-Regular';
+  font-weight: 900;
+  margin:20px;
 }
