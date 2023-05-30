@@ -1,0 +1,16 @@
+{
+  "name": "limsomi.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start /B node ./bin/www",
+    "start": "npm run test && npm run open",
+    "open": "opener http://localhost:3000/",
+    "dev" : "parcel index.html"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
